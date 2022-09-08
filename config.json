@@ -1,0 +1,8 @@
+{
+    "password":"Fenasantma",
+    "database":"corp",
+    "user_name":"root",
+    "host":"localhost",
+    "dialect":"mysql",
+    "data_port":3002
+}

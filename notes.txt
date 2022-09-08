@@ -1,0 +1,10 @@
+npx sequelize-cli db:migrate:undo:all
+npx sequelize db:migrate
+npx sequelize-cli db:seed:all
+npm start
+
+
+
+npx sequelize-cli seed:generate --name seed
+
+npx sequelize-cli db:seed:all
